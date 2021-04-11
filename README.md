@@ -15,6 +15,18 @@ El objetivo de este primer proyecto sera el de realizar una aplicación enfocada
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+_Debes copiar el proyecto en tus repositorios locales utilizando el siguiente comando en tu terminal de confianza y debe ubicarte_
+_"C\:En_la_ruta\donde\guardaras\el_proyecto\"_
+
+```
+git clone https://github.com/FurryTeam/furryapp-frontend.git
+```
+
+_Si lo que quieres es clonar como tal una rama en especifico, debes ejecutar el siguiente comando_
+
+```
+git clone https://github.com/FurryTeam/furryapp-frontend.git -b [Name Rama] --single-branch
+```
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -31,21 +43,22 @@ https://nodejs.org/es/download/  <--- De este sitio tienes que descargar el Node
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Para tener un entorno de desarrollo ejecutandose debe de correr los siguientes comandos en tu terminal posicionandote primero_
+_"C\:En_la_ruta\donde\guardaste\el_proyecto\"_
 
 ```
-hasta finalizar
+npm i
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Y una vez terminada la instalacion de dependencias continuas con_
+
+```
+npm start
+```
+
+_Deberias tener en tu navegador el proyecto corriendo correctamente_
+
+//----------- De aqui en adelante no he editado la plantilla ReadMe.Md --------------//
 
 ## Ejecutando las pruebas ⚙️
 
