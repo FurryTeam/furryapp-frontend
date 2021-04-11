@@ -23,7 +23,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
-_Tienes que tener instalado NodeJS
+_Tienes que tener instalado NodeJS_
 
 ```
 https://nodejs.org/es/download/  <--- De este sitio tienes que descargar el NodeJS dependiendo de tu sistema operativo
